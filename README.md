@@ -43,3 +43,7 @@ Options:
 
 - If `/mnt/models/.hf` exists and `HF_HOME` is not set, the script uses it as the Hugging Face cache. Change that path near the top of `qwen_studio.py` or set `HF_HOME` yourself.
 - Generated images and the log are not part of this repo.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
