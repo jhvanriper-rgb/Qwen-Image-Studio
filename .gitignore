@@ -1,0 +1,5 @@
+output/
+studio.log
+*.log
+*.bak
+__pycache__/
